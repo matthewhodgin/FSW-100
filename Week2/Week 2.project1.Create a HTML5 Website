@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+
+        <div> <!---inline--->
+            <h1>Hello there</h1>
+                <!--block--->
+            <img src="https://i.picsum.photos/id/261/2200/1650.jpg?hmac=8-ACepeACUIRCDq4P3iGwuh2xlKDDpWkyLGOz-sTQB4" width="355px" />
+                <!--inline--->
+            <img src="https://i.picsum.photos/id/525/5184/3456.jpg?hmac=A4S5MeuwTmkc-ikdHh21cCqwLkqYkyVDEq2apsmkzpM" width="400px" />
+                <!--inline--->
+            <img src="https://i.picsum.photos/id/184/4288/2848.jpg?hmac=l0fKWzmWf6ISTPMEm1WjRdxn35sg6U3GwZLn5lvKhTI" width="400px" />
+                <!--inline--->
+        </div>
+                <!--inline--->
+        <div>
+            <h2>Come here my little friend</h2>
+                <!--block--->
+            <a href="https://www.youtube.com/watch?v=6uXkEazzPA0">Obi</a>
+                <!--inline--->
+            <a href="https://www.youtube.com/watch?v=oTV2tS4nRPE">Wan</a>
+                <!--inline--->
+            <a href="https://www.youtube.com/watch?v=J00jMHMR1hg">Kenobi</a> 
+                <!--inline--->
+        </div>
+                <!--inline--->
+        <div>
+            <h3>don't be afraid</h3>
+                <!--block--->
+            <p>*R2D2 noises*</p> 
+                <!--block--->
+        </div>
+                <!--inline--->
+        <div>
+            <h4>Oh don't worry he'll be alright</h4>
+                <!--block--->
+            <span>*Luke</span> <!--inline--->
+            <span>sits</span> <!--inline--->
+            <span>up*</span> <!--inline--->
+        </div>
+                <!--inline--->
+        <div>
+            <h5>Rest easy son, you've had a busy day</h5>
+                <!--block--->
+            <ol> <!--block--->
+                <li>Go to Ben Kenobi</li> <!--block--->
+                <li>Find out who is Obi-Wan</li> <!--block--->
+                <li>Deliver message from the princess</li> <!--block--->
+            </ol> <!--block--->
+        </div>
+                <!--inline--->
+        <div>
+            <h6>You're fortunate to be all in one piece</h6>
+                <!--block--->
+            <ul> <!--block--->
+                <li>Get away from Sandpeople</li> <!--block--->
+                <li>Don't forget C-3PO</li> <!--block--->
+                <li>Go to Obi-Wan's home</li> <!--block--->
+            </ul> <!--block--->
+        </div>
+                <!--inline--->
+    </body>
+</html> 
