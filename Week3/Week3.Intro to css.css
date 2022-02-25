@@ -1,0 +1,56 @@
+body {
+    background-color: lightcyan;
+}
+
+h1 {
+    color: blue;
+}
+
+h2, h3 {
+    color: green;
+}
+
+h1, h2, h3 {
+    font-family: Georgia;
+    text-align: center;
+}
+
+h3 {
+    font-family: Georgia;
+    text-align: justify;
+}
+
+p, p4, p5, ol, a {  
+    font-size: 20px
+}
+
+b {
+    color: lightcoral;
+}
+
+a {
+    text-decoration: none;
+}
+ 
+p5 {
+    text-transform: uppercase;
+}
+
+
+a:hover {
+
+    text-decoration: underline;
+ }
+ 
+img {
+        float: left;
+ }
+
+img {
+    display: inline-block;
+    margin: 25px 10px;
+}
+
+ol {
+    list-style-type: disc;
+}
