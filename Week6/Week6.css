@@ -5,10 +5,9 @@
     html, body {
         margin: 0;
         padding: 0;
-
     }
     
-    h1{
+    h1 {
         text-align: center;
     }
     
@@ -17,14 +16,11 @@
         flex-direction: column;
         /* grid-template-columns: 1fr;
         grid-template-rows: repeat(5, 1fr); */
-
-       
     }
     
     header {
         background-color: aquamarine;
         height: 100px;
-        
     }
     
     nav{
@@ -32,46 +28,44 @@
         height: 50px;
         text-align: left;
         /* grid-row: 2/3; */
-
     }
     
- 
     #navUl{
         list-style-type: none;
         display: flex;
         justify-content: space-evenly;
     }
 
-    
     main {
         background-color: peachpuff;
         /* grid-row: 3/5;  */
-
     }
 
-    img{
-        float:right;
+    img {
+        float: right;
         padding: 1px;
     }
-    li{
+
+    li {
         list-style: none;
         margin-right: 10px;
     }
-    table{
+    
+    table {
+        color: blue;
         display: flex;
         justify-content:space-evenly;
-    }
-    td{
-        color: blue;
+
 
     }
 
     footer {
         background-color: salmon;
-
+        word-spacing: 25px;
+        text-align: center;
+        font-weight: bolder;
 
         /* grid-row: 5/6;  */
-
     }
     }
     
