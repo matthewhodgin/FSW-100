@@ -1,11 +1,10 @@
-/* Add a black background color to the top navigation */
+
 .topnav {
     background-color:darkslategray;
     overflow: hidden;
     
   }
   
-  /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
     color: whitesmoke;
@@ -15,13 +14,13 @@
     font-size: 17px;
   }
   
-  /* Change the color of links on hover */
+
   .topnav a:hover {
     background-color: whitesmoke;
     color: black;
   }
   
-  /* Add a color to the active/current link */
+
   .topnav a.active {
     background-color: orangered;
     color: white;
@@ -69,7 +68,20 @@
 
   figure {
     color:whitesmoke;
+
 }
+
+
+.column {
+  flex: 33.33%;
+
+  padding: 5px;
+}
+
+.row {
+  display: flex;
+}
+
   aside {
     width: 30%;
     padding-left: 15px;
@@ -82,7 +94,7 @@
 
 footer {
   text-align: center;
-  padding: 3px;
   background-color:orangered;
   color: white;
+
 }
